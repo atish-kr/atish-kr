@@ -9,7 +9,7 @@ while(alive) {
 
 🎓 B.Tech CSE Student
 
-💻 Passionate about Full Stack Development and Problem Solving
+💻 Building scalable web applications with React, Node.js, and modern web technologies
 
 🚀 Building projects that solve real-world problems
 
