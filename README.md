@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Atish Kumar 👋
 
-<!--
-**atish-kr/atish-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cpp
+while(alive) {
+    learn();
+    build();
+}
+```
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Full Stack Development and Problem Solving
+
+🚀 Building projects that solve real-world problems
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Node.js
+* Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+
+### SocietySphere
+
+A community management platform where residents can raise issues, vote on them, and interact with society administration.
+
+### SangamChat
+
+A real-time chat application for seamless communication.
+
+### Portfolio Website
+
+My personal portfolio showcasing projects, skills, and achievements.
+
+---
+
+## 🏆 Competitive Programming
+
+CodeChef Profile:
+https://www.codechef.com/users/atish_shah9835
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/atish-kumar-598b052a3/
+
+Portfolio:
+https://portfolio-inky-theta-37.vercel.app/
+
+---
+
+### Current Focus
+
+* Data Structures & Algorithms
+* Full Stack Development
+* System Design Fundamentals
+* Open Source Contributions
+
+> Miles to go before I sleep.
